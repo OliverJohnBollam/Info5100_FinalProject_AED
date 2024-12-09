@@ -1,7 +1,0 @@
-{
-    "sqlConnection": {
-      "url": "jdbc:mysql://localhost:3306/MediConnectdb",
-      "username": "root",
-      "password": "mysqldmdd" 
-    }
-}
